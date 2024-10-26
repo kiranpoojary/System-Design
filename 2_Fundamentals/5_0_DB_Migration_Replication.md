@@ -60,3 +60,5 @@ This is going to be more complex engineering, but worth it the savings in downti
 7. Delete the proxy.
 
 Yey! Remember, despite our best efforts, there is always a chance of a data miss. It's best to check for correctness after deployment, and keep your clients in the loop
+
+## Cross Region Migration
