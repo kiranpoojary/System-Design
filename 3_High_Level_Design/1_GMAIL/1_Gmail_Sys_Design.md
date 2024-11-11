@@ -20,6 +20,14 @@ Gateway can cache the service manager details for a while to avoid sample api ca
 
 The authentication service needs to authenticate every user request. How do you balance efficiency and security?
 
+# Chapter #3: API contracts & Versioning
+
+How are API contracts made and managed in a micro-service architecture?
+
+backward version compatability
+
 # Chapter #4: Sending, Tagging & Searching Emails
 
 The core of the system: sending and searching emails with their metadata.
+
+# Chapter #5: Contacts & Groups
