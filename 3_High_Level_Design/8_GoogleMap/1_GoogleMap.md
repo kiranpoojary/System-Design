@@ -56,3 +56,7 @@ There are three factors that Google Maps uses to update the time it takes to fin
 To update a user's ETA, Google Maps needs to store the active routes of each user and inform them of any updates to their route. The server is responsible for giving the user the most efficient route, even if it means going through the same road.
 
 # Calculating an accurate and efficient estimated time of arrival
+
+The ETA algorithm depends on routing and is a function of the route chosen. The video explains how Google Maps breaks down regions into subregions or hubs, making the routing process more efficient and accurate.
+
+The goal is to provide a highly predictable ETA so users can plan their trips and arrive on time. Google Maps limits the number of potential routes between regions to improve accuracy and reduce computation time.
